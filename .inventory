@@ -2,3 +2,4 @@
 [wazuhworker]
 [nginx]
 [elk]
+[zabbix]
